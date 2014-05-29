@@ -7,6 +7,6 @@
     <author email="timo.lyytinen@iki.fi" href="http://github.com">
         golfer team
     </author>
-    <content src="http://golfer.herokuapp.com" />
+    <content src="http://golfer-app.herokuapp.com" />
     <access origin="*" />
 </widget>
