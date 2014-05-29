@@ -3,12 +3,10 @@
 <head>
     <script src="cordova.js"></script>
     <script>
-        function onBodyLoad(){     
-            document.addEventListener("deviceready", onDeviceReady, false);
-        }
         function onDeviceReady(){
             window.location.href = "http://golfer-app.herokuapp.com"
         }
+        document.addEventListener("deviceready", onDeviceReady, false);
     </script>
 </head>
 <body></body>
