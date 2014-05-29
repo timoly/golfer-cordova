@@ -9,4 +9,5 @@
     </author>
     <content src="http://golfer-app.herokuapp.com" />
     <access origin="*" />
+    <preference name="orientation" value="portrait" />
 </widget>
